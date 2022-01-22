@@ -1712,6 +1712,10 @@ input, select, textarea {
 		width: 45em;
 	}
 
+		.container a{
+			font-weight: bold;
+		}
+
 		.container.xsmall {
 			width: 11.25em;
 		}
@@ -2657,6 +2661,10 @@ input, select, textarea {
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
 	}
+
+		.features a{
+			font-size: 1.5em;
+		}
 
 		.features article:first-child {
 			border-top: 0;
